@@ -1,0 +1,64 @@
+<lcgdict>
+  <class name="vhtm::Event" ClassVersion="1">
+    <version ClassVersion="1" checksum="175200460" />
+  </class>
+  <class name="vhtm::GenEvent" ClassVersion="1">
+    <version ClassVersion="1" checksum="1216459750" />
+  </class>
+  <class name="vhtm::Electron" ClassVersion="1">
+    <version ClassVersion="1" checksum="3580647259" />
+  </class>
+  <class name="vhtm::Tau" ClassVersion="1">
+    <version ClassVersion="1" checksum="1825846937" />
+  </class>
+  <class name="vhtm::Muon" ClassVersion="1">
+    <version ClassVersion="1" checksum="3825846281" />
+  </class>
+  <class name="vhtm::Jet" ClassVersion="1">
+    <version ClassVersion="1" checksum="143262351"/>
+  </class>
+  <class name="vhtm::MET" ClassVersion="1">
+    <version ClassVersion="1" checksum="1743054397" />
+  </class>
+  <class name="vhtm::Vertex" ClassVersion="1">
+    <version ClassVersion="1" checksum="1541075011" />
+  </class>
+  <class name="vhtm::TriggerObject" ClassVersion="1">
+    <version ClassVersion="1" checksum="2444569257" />
+  </class>
+  <class name="vhtm::Candidate" ClassVersion="1">
+    <version ClassVersion="1" checksum="258875023" />
+  </class>
+  <class name="vhtm::GenParticle" ClassVersion="1">
+    <version ClassVersion="1" checksum="100762856" />
+  </class>
+  <class name="vhtm::GenJet" ClassVersion="1">
+    <version ClassVersion="1" checksum="795837097" />
+  </class>
+  <class name="vhtm::GenMET" ClassVersion="1">
+    <version ClassVersion="1" checksum="938168389" />
+  </class>
+  <class name="vhtm::Photon" ClassVersion="1">
+    <version ClassVersion="1" checksum="3861826738" />
+  </class>
+  <class name="vhtm::PackedPFCandidate" ClassVersion="1">
+    <version ClassVersion="1" checksum="2028189617" />
+  </class>
+  <class name="std::vector<vhtm::Electron>" persistent="true" />
+  <class name="std::vector<vhtm::Muon>" persistent="true" />
+  <class name="std::vector<vhtm::Jet>" persistent="true" />
+  <class name="std::vector<vhtm::MET>" persistent="true" />
+  <class name="std::vector<vhtm::Tau>" persistent="true" />
+  <class name="std::vector<vhtm::Vertex>" persistent="true" />
+  <class name="std::vector<vhtm::GenParticle>" persistent="true" />
+  <class name="std::vector<vhtm::GenMET>" persistent="true" />
+  <class name="std::vector<vhtm::GenJet>" persistent="true" />
+  <class name="std::vector<vhtm::TriggerObject>" persistent="true" />
+  <class name="std::vector<vhtm::Event>" persistent="true" />
+  <class name="std::vector<vhtm::GenEvent>" persistent="true" />
+  <class name="std::vector<vhtm::Candidate>" persistent="true" />
+  <class name="std::vector<vhtm::Photon>" persistent="true" />
+  <class name="std::vector<vhtm::PackedPFCandidate>" persistent="true" />
+  <class name="std::map<double, std::vector<double> >" persistent="true" />
+  <class name="std::map<std::string, std::vector<double> >" persistent="true" />
+</lcgdict>
